@@ -42,17 +42,6 @@ Ensure Responsiveness:
 
 Use CSS Media Queries to adjust the layout for different screen sizes, ensuring the website works well on mobiles, tablets, and desktops. 
 
-Your Submission
-STUDENT NAME : Gayathri R
-
-STUDENT ID : FSWD2328
-
-GITHUB REPOSITORY LINK: https://github.com/Gayathri02-R/Tripadvisor.git
-
-PROJRCT LIVE LINK :https://gayathri02-r.github.io/Tripadvisor/
-
-
-
 index.html
 index.html
 style.css
